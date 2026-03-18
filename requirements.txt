@@ -1,0 +1,8 @@
+sqlalchemy>=2.0,<3.0
+psycopg2-binary>=2.9
+peewee>=3.17
+tortoise-orm>=0.21
+asyncpg>=0.29
+piccolo>=1.0
+pytest>=8.0
+pytest-asyncio>=0.23
